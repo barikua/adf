@@ -1,0 +1,9 @@
+{
+	"name": "poc-sep-adf",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca2bf145-d20d-4b7b-a885-cf5ec87094a1",
+		"tenantId": "a9bced89-9a7b-4484-95a5-007109f46947"
+	}
+}
